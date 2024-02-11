@@ -27,7 +27,7 @@ You can tackle the Katas in whatever order you may choose. The order specified h
 - [x] [Filter even numbers](src/filter-even-numbers/README.md)
 - [x] [Flat](src/flat/README.md)
 - [x] [Alphabetical](src/alphabetical/README.md)
-- [Fruit counter](src/fruit-counter/README.md)
+- [x] [Fruit counter](src/fruit-counter/README.md)
 - [Grouper](src/grouper/README.md)
 - [Range](src/range/README.md)
 - [Calculator](src/calculator/README.md)
