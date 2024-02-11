@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest'
-import { getPoweredByTwo } from './forof.power-of-two'
+import { getPoweredByTwo } from './power-of-two'
 
 describe('testing "power of two"', () => {
   it('given a list of numbers it should return a new list of numbers that are to the power of 2', () => {

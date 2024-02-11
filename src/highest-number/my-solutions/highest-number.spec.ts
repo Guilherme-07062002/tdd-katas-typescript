@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { getHighestNumber } from './forof.highest-number'
+import { getHighestNumber } from './highest-number'
 
 describe('testing "highest number" script', () => {
   it('given an array of numbers, it should return the highest number', () => {
