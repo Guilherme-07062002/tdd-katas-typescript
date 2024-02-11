@@ -28,7 +28,7 @@ You can tackle the Katas in whatever order you may choose. The order specified h
 - [x] [Flat](src/flat/README.md)
 - [x] [Alphabetical](src/alphabetical/README.md)
 - [x] [Fruit counter](src/fruit-counter/README.md)
-- [Grouper](src/grouper/README.md)
+- [x] [Grouper](src/grouper/README.md)
 - [Range](src/range/README.md)
 - [Calculator](src/calculator/README.md)
 - [Prime numbers](src/prime-numbers/README.md)
