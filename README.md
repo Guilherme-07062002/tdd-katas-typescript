@@ -25,7 +25,7 @@ You can tackle the Katas in whatever order you may choose. The order specified h
 - [x] [Fizz buzz](src/fizz-buzz/README.md)
 - [x] [forEach](src/for-each/README.md)
 - [x] [Filter even numbers](src/filter-even-numbers/README.md)
-- [Flat](src/flat/README.md)
+- [x] [Flat](src/flat/README.md)
 - [Alphabetical](src/alphabetical/README.md)
 - [Fruit counter](src/fruit-counter/README.md)
 - [Grouper](src/grouper/README.md)
