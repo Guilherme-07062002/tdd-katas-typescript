@@ -29,7 +29,7 @@ You can tackle the Katas in whatever order you may choose. The order specified h
 - [x] [Alphabetical](src/alphabetical/README.md)
 - [x] [Fruit counter](src/fruit-counter/README.md)
 - [x] [Grouper](src/grouper/README.md)
-- [Range](src/range/README.md)
+- [x] [Range](src/range/README.md)
 - [Calculator](src/calculator/README.md)
 - [Prime numbers](src/prime-numbers/README.md)
 - [Caesar's cypher](src/caesar/README.md)
