@@ -19,8 +19,8 @@ I recommend that you create a file with `<NAME>.<KATA>.ts` and `<NAME>.<KATA>.sp
 
 You can tackle the Katas in whatever order you may choose. The order specified here has more to do with difficulty of the Kata.
 
-- [Highest number](src/highest-number/README.md)
-- [Power of two](src/power-of-two/README.md)
+- [x] [Highest number](src/highest-number/README.md)
+- [x] [Power of two](src/power-of-two/README.md)
 - [Add all numbers](src/add-all-numbers/README.md)
 - [Fizz buzz](src/fizz-buzz/README.md)
 - [forEach](src/for-each/README.md)
