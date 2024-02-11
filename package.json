@@ -7,6 +7,7 @@
   "scripts": {
     "test": "vitest --watch=false",
     "test:watch": "vitest --watch=true",
+    "coverage": "vitest --coverage",
     "format": "prettier --write --ignore-path .gitignore .",
     "toc": "doctoc README.md --github --title \"**Table of Contents**\"",
     "prepare": "husky install"
