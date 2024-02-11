@@ -22,7 +22,7 @@ You can tackle the Katas in whatever order you may choose. The order specified h
 - [x] [Highest number](src/highest-number/README.md)
 - [x] [Power of two](src/power-of-two/README.md)
 - [x] [Add all numbers](src/add-all-numbers/README.md)
-- [Fizz buzz](src/fizz-buzz/README.md)
+- [x] [Fizz buzz](src/fizz-buzz/README.md)
 - [forEach](src/for-each/README.md)
 - [Filter even numbers](src/filter-even-numbers/README.md)
 - [Flat](src/flat/README.md)
