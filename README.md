@@ -1,50 +1,42 @@
-<h1 align="center">Katas</h1>
+# Katas
 
-![GitHub](https://img.shields.io/github/license/cesalberca/katas)
-![Star](https://img.shields.io/github/stars/cesalberca/katas.svg)
-![Followers](https://img.shields.io/github/followers/cesalberca.svg?style=social&label=Follow&maxAge=2592000)
+## Table of Contents
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-**Table of Contents**
-
--   [Introduction](#introduction)
--   [Katas](#katas)
--   [Setup](#setup)
--   [Workflow](#workflow)
--   [Contributing](#contributing)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+- [Katas](#katas)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Setup](#setup)
+  - [Workflow](#workflow)
+  - [License](#license)
 
 ## Introduction
 
 JavaScript/TypeScript Katas you can use to hone your skills as a developer! Try and follow [TDD](https://en.wikipedia.org/wiki/Test-driven_development) by doing the tests first and then implement the functionality to make that test pass.
 
-## Katas
+**Katas** are small coding exercises that you can use to practice your skills. They are usually small and focused on a single functionality. They are a great way to practice your skills and to learn new ones.
 
 I recommend that you create a file with `<NAME>.<KATA>.ts` and `<NAME>.<KATA>.spec.ts` for the test, where `<NAME>` is the main characteristic of the Kata and `<NAME>` is the name of the Kata. Only if you find yourself stuck you might check the answer.
 
 You can tackle the Katas in whatever order you may choose. The order specified here has more to do with difficulty of the Kata.
 
--   [Highest number](src/highest-number/README.md)
--   [Power of two](src/power-of-two/README.md)
--   [Add all numbers](src/add-all-numbers/README.md)
--   [Fizz buzz](src/fizz-buzz/README.md)
--   [forEach](src/for-each/README.md)
--   [Filter even numbers](src/filter-even-numbers/README.md)
--   [Flat](src/flat/README.md)
--   [Alphabetical](src/alphabetical/README.md)
--   [Fruit counter](src/fruit-counter/README.md)
--   [Grouper](src/grouper/README.md)
--   [Range](src/range/README.md)
--   [Calculator](src/calculator/README.md)
--   [Prime numbers](src/prime-numbers/README.md)
--   [Caesar's cypher](src/caesar/README.md)
--   [Change calculator](src/change-calculator/README.md)
--   [Christmas tree](src/christmas-tree/README.md)
--   [Word wrap](src/word-wrap/README.md)
--   [99 bottles](src/99-bottles/README.md)
+- [Highest number](src/highest-number/README.md)
+- [Power of two](src/power-of-two/README.md)
+- [Add all numbers](src/add-all-numbers/README.md)
+- [Fizz buzz](src/fizz-buzz/README.md)
+- [forEach](src/for-each/README.md)
+- [Filter even numbers](src/filter-even-numbers/README.md)
+- [Flat](src/flat/README.md)
+- [Alphabetical](src/alphabetical/README.md)
+- [Fruit counter](src/fruit-counter/README.md)
+- [Grouper](src/grouper/README.md)
+- [Range](src/range/README.md)
+- [Calculator](src/calculator/README.md)
+- [Prime numbers](src/prime-numbers/README.md)
+- [Caesar's cypher](src/caesar/README.md)
+- [Change calculator](src/change-calculator/README.md)
+- [Christmas tree](src/christmas-tree/README.md)
+- [Word wrap](src/word-wrap/README.md)
+- [99 bottles](src/99-bottles/README.md)
 
 ## Setup
 
@@ -144,6 +136,8 @@ If we run the tests they should still be green!
 
 _Note: We did a slice before sort because sort mutates the original array and we don't want that._
 
-## Contributing
+## License
 
-If you have an interesting solution create a PR to this project with the name of the file like this: `<NAME>.<KATA>.ts`.
+All the rights reserved to [César Alberca](https://github.com/cesalberca)
+
+Original repository: [cesalberca/katas](https://github.com/cesalberca/katas)
