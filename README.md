@@ -32,7 +32,7 @@ You can tackle the Katas in whatever order you may choose. The order specified h
 - [x] [Range](src/range/README.md)
 - [x] [Calculator](src/calculator/README.md)
 - [x] [Prime numbers](src/prime-numbers/README.md)
-- [Caesar's cypher](src/caesar/README.md)
+- [x] [Caesar's cypher](src/caesar/README.md)
 - [Change calculator](src/change-calculator/README.md)
 - [Christmas tree](src/christmas-tree/README.md)
 - [Word wrap](src/word-wrap/README.md)
