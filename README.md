@@ -35,7 +35,7 @@ You can tackle the Katas in whatever order you may choose. The order specified h
 - [x] [Caesar's cypher](src/caesar/README.md)
 - [x] [Change calculator](src/change-calculator/README.md)
 - [x] [Christmas tree](src/christmas-tree/README.md)
-- [Word wrap](src/word-wrap/README.md)
+- [x] [Word wrap](src/word-wrap/README.md)
 - [99 bottles](src/99-bottles/README.md)
 
 ## Setup
